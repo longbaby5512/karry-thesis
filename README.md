@@ -29,6 +29,15 @@ The server is used to store the infomation of the user and the message. The serv
 
 The client is android application. It is used to sign in and sign up the user, implement the chat application with the server developed in the Module 3.
 
+## Clone the repository
+
+To clone the repository with submodule, you can use the command:
+
+```bash
+git clone --recurse-submodules -j8 git@github.com:longbaby5512/karry-thesis.git
+cd karry-thesis
+```
+
 ## Language & Framework
 - Module chaotic-cryptography: C/C++
 - Module ecdh-key-exchange: Kotlin
