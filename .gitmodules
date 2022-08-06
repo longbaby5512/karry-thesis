@@ -1,12 +1,16 @@
 [submodule "chat-app-android"]
 	path = chat-app-android
 	url = https://github.com/longbaby5512/chat-app-android
+	branch = main
 [submodule "chat-app-server"]
 	path = chat-app-server
 	url = https://github.com/longbaby5512/chat-app-server
+	branch = main
 [submodule "chaotic-cryptography"]
 	path = chaotic-cryptography
 	url = https://github.com/longbaby5512/chaotic-cryptography
+	branch = main
 [submodule "ecdh-key-exchange"]
 	path = ecdh-key-exchange
 	url = https://github.com/longbaby5512/ecdh-key-exchange
+	branch = main
